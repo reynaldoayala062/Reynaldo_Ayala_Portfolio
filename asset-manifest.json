@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/static/js/main.9b25fc79.chunk.js",
-    "main.js.map": "/static/js/main.9b25fc79.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c6f57e2f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c6f57e2f.js.map",
-    "static/js/2.925ffdb0.chunk.js": "/static/js/2.925ffdb0.chunk.js",
-    "static/js/2.925ffdb0.chunk.js.map": "/static/js/2.925ffdb0.chunk.js.map",
-    "static/js/3.ff64b61e.chunk.js": "/static/js/3.ff64b61e.chunk.js",
-    "static/js/3.ff64b61e.chunk.js.map": "/static/js/3.ff64b61e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.925ffdb0.chunk.js.LICENSE.txt": "/static/js/2.925ffdb0.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/Reynaldo_Ayala_Portfolio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Reynaldo_Ayala_Portfolio/static/js/main.9b25fc79.chunk.js",
+    "main.js.map": "/Reynaldo_Ayala_Portfolio/static/js/main.9b25fc79.chunk.js.map",
+    "runtime-main.js": "/Reynaldo_Ayala_Portfolio/static/js/runtime-main.416e802d.js",
+    "runtime-main.js.map": "/Reynaldo_Ayala_Portfolio/static/js/runtime-main.416e802d.js.map",
+    "static/js/2.925ffdb0.chunk.js": "/Reynaldo_Ayala_Portfolio/static/js/2.925ffdb0.chunk.js",
+    "static/js/2.925ffdb0.chunk.js.map": "/Reynaldo_Ayala_Portfolio/static/js/2.925ffdb0.chunk.js.map",
+    "static/js/3.ff64b61e.chunk.js": "/Reynaldo_Ayala_Portfolio/static/js/3.ff64b61e.chunk.js",
+    "static/js/3.ff64b61e.chunk.js.map": "/Reynaldo_Ayala_Portfolio/static/js/3.ff64b61e.chunk.js.map",
+    "index.html": "/Reynaldo_Ayala_Portfolio/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Reynaldo_Ayala_Portfolio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.925ffdb0.chunk.js.LICENSE.txt": "/Reynaldo_Ayala_Portfolio/static/js/2.925ffdb0.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Reynaldo_Ayala_Portfolio/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6f57e2f.js",
+    "static/js/runtime-main.416e802d.js",
     "static/js/2.925ffdb0.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.9b25fc79.chunk.js"
